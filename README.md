@@ -3,12 +3,16 @@ Karuna Bajgain's Web Development Portfolio
 Welcome to my web development portfolio repository. Here, you'll find a collection of my web development projects, blog posts, and a way to get in touch with me.
 
 Explore the Contents
+
 HTML Files
-about.html: This HTML file contains information about the author, Karuna Bajgain. It serves as a personal introduction and includes details about Karuna's background, interests, and skills. The file is structured using HTML elements like headings (<h1>, <h2>), paragraphs (<p>), and lists (<ul>, <li>). It provides a clear and organized presentation of Karuna's profile.
+about.html:
+This HTML file contains information about the author, Karuna Bajgain. It serves as a personal introduction and includes details about Karuna's background, interests, and skills. The file is structured using HTML elements like headings (<h1>, <h2>), paragraphs (<p>), and lists (<ul>, <li>). It provides a clear and organized presentation of Karuna's profile.
 
-blog.html: The blog.html file is dedicated to hosting tech-related blog posts. It uses HTML to structure and display the blog content, including headings, paragraphs, and lists. Each blog post is typically wrapped in HTML tags, making it easy to read and navigate.
+blog.html: 
+ The blog.html file is dedicated to hosting tech-related blog posts. It uses HTML to structure and display the blog content, including headings, paragraphs, and lists. Each blog post is typically wrapped in HTML tags, making it easy to read and navigate.
 
-contact.html: This HTML file contains a contact form that allows visitors to get in touch with Karuna. It includes input fields for name, email, phone, and a message, wrapped in HTML form tags (<form>). The form is styled and presented in a user-friendly manner.
+contact.html:
+This HTML file contains a contact form that allows visitors to get in touch with Karuna. It includes input fields for name, email, phone, and a message, wrapped in HTML form tags (<form>). The form is styled and presented in a user-friendly manner.
 
 CSS Files
 about.css: The about.css file contains the styles specific to the "About Me" page. It defines the visual layout, colors, fonts, and spacing for the elements in the about.html file. This CSS file helps create an attractive and consistent presentation for Karuna's personal information.
